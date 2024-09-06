@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moyo</h1>
-<h3 align="center">A passionate Full Stack Developer specialising in Specialising in JavaScript, React, TypeScript, Node and SQL databases Recent The Jump Digital School's 30 week Full-Stack Software Engineer bootcamp graduate and Code Sensei @ Code Ninjas</h3>
+<h3 align="center">A passionate Full Stack Developer specialising in Specialising in JavaScript, React, TypeScript, Node and SQL databases </h3>
+<h3>Recent The Jump Digital School's 30 week Full-Stack Software Engineer bootcamp graduate and Code Sensei @ Code Ninjas</h3>
 
 - 🔭 I’m currently working on [Podcast Player](https://github.com/moyoamoo/typescript-podcast-player)
 
