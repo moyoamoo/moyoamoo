@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Moyo</h1>
-<h3 align="center">A passionate Full Stack Developer specialising in Specialising in JavaScript, React, TypeScript, Node and SQL databases </h3>
+<h3 align="center">A passionate Full Stack Developer specialising in Specialising in JavaScript, React, Node and SQL databases </h3>
 <h3>Recent The Jump Digital School's 30 week Full-Stack Software Engineer bootcamp graduate and Code Sensei @ Code Ninjas</h3>
 
 <p>I am a Full Stack Engineer, skilled in using in-demand technologies (including React, Express, Node, Vanilla JavaScript, CSS and HTML) to develop and deploy attractive, performant websites and web applications.
 
 I cam currently working on developing my skills in TypeScript Jest, Cypress and React Native.
+</p>
 
 Skills 
-JavaScript: ES6+, AJAX & API’s - REST and GraphQL, Graphing (d3.js)
-React: classes, hooks, context, Material UI, Redux, Redux Toolkit
-Testing: TypeScript, Vite
-Node.js: Vanilla & Express.
-Databases: SQL - MySQL
-DevOps: serverless (inc. Netlify). cPanel, Apache, XAMPP
-CSS 3: Responsive design, Flexbox & CSS Grid, pre-processors (SASS), and CSS frameworks.
-HTML5: Semantically correct for accessibility and SEO.</p>
+<li>JavaScript: ES6+, AJAX & API’s - REST and GraphQL, Graphing (d3.js)</li>
+<li>React: classes, hooks, context, Material UI, Redux, Redux Toolkit</li>
+<li>Testing: TypeScript, Vite</li>
+<li>Node.js: Vanilla & Express.</li>
+<li>Databases: SQL - MySQL</li>
+<li>DevOps: serverless (inc. Netlify). cPanel, Apache, XAMPP</li>
+<li>CSS 3: Responsive design, Flexbox & CSS Grid, pre-processors (SASS), and CSS frameworks.</li>
+<li>HTML5: Semantically correct for accessibility and SEO.</li>
 
 - 🔭 I’m currently working on [Podcast Player](https://github.com/moyoamoo/typescript-podcast-player)
 
-- 🌱 I’m currently learning **Jest, Cypress and React Native**
+- 🌱 I’m currently learning **Test Driven Developement, TypeScript and React Native**
 
 - 👨‍💻 All of my projects are available at [moyoamoo.dev](moyoamoo.dev)
 
