@@ -2,6 +2,20 @@
 <h3 align="center">A passionate Full Stack Developer specialising in Specialising in JavaScript, React, TypeScript, Node and SQL databases </h3>
 <h3>Recent The Jump Digital School's 30 week Full-Stack Software Engineer bootcamp graduate and Code Sensei @ Code Ninjas</h3>
 
+<p>I am a Full Stack Engineer, skilled in using in-demand technologies (including React, Express, Node, Vanilla JavaScript, CSS and HTML) to develop and deploy attractive, performant websites and web applications.
+
+I cam currently working on developing my skills in TypeScript Jest, Cypress and React Native.
+
+Skills 
+JavaScript: ES6+, AJAX & API’s - REST and GraphQL, Graphing (d3.js)
+React: classes, hooks, context, Material UI, Redux, Redux Toolkit
+Testing: TypeScript, Vite
+Node.js: Vanilla & Express.
+Databases: SQL - MySQL
+DevOps: serverless (inc. Netlify). cPanel, Apache, XAMPP
+CSS 3: Responsive design, Flexbox & CSS Grid, pre-processors (SASS), and CSS frameworks.
+HTML5: Semantically correct for accessibility and SEO.</p>
+
 - 🔭 I’m currently working on [Podcast Player](https://github.com/moyoamoo/typescript-podcast-player)
 
 - 🌱 I’m currently learning **Jest, Cypress and React Native**
