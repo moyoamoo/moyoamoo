@@ -4,7 +4,6 @@
 
 <p>I am a Full Stack Engineer, skilled in using in-demand technologies (including React, Express, Node, Vanilla JavaScript, CSS and HTML) to develop and deploy attractive, performant websites and web applications.
 
-I cam currently working on developing my skills in TypeScript Jest, Cypress and React Native.
 </p>
 
 Skills 
