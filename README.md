@@ -25,7 +25,6 @@ Skills
 
 - 📫 How to reach me **moyo.amoo@hotmail.com**
 
-- ⚡ Fun fact **I am currently learning to crochet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
